@@ -1,0 +1,18 @@
+:root{
+    --blue-dark-color: rgb(68, 20, 201); 
+}
+
+.bg-blue{
+    background-color: var(--blue-dark-color);
+    color: #fff;
+}
+
+.carousel-caption {
+    bottom: 85vh;
+    text-align: right;
+}
+
+.text-blue{
+    color: var(--blue-dark-color);
+}
+
